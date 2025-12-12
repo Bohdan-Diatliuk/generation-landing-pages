@@ -92,15 +92,15 @@ export const generatePage = (type, tmpl, t, language = 'uk') => {
         <div class="grid grid-cols-3 gap-6 pt-8 scroll-reveal" style="animation-delay: 0.6s">
           <div class="text-center p-4 bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow">
             <div class="text-3xl md:text-4xl font-bold text-${primary} mb-2">10+</div>
-            <div class="text-sm md:text-base text-gray-600">Років досвіду</div>
+            <div class="text-sm md:text-base text-gray-600">${t.years}</div>
           </div>
           <div class="text-center p-4 bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow">
             <div class="text-3xl md:text-4xl font-bold text-${secondary} mb-2">500+</div>
-            <div class="text-sm md:text-base text-gray-600">Проектів</div>
+            <div class="text-sm md:text-base text-gray-600">${t.projects}</div>
           </div>
           <div class="text-center p-4 bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow">
             <div class="text-3xl md:text-4xl font-bold text-${accent} mb-2">100%</div>
-            <div class="text-sm md:text-base text-gray-600">Задоволення</div>
+            <div class="text-sm md:text-base text-gray-600">${t.chill}</div>
           </div>
         </div>
       </div>

@@ -8,6 +8,9 @@ export const translations = {
     aboutText1: 'Ми почали свій шлях з великої мрії - створити щось дійсно особливе для наших клієнтів. Протягом років ми виросли від невеликого стартапу до визнаного лідера в галузі.',
     aboutText2: 'Сьогодні ми пишаємося тим, що можемо запропонувати вам найвищу якість послуг та індивідуальний підхід. Наша команда професіоналів працює щодня, щоб не просто відповідати, а перевершувати ваші очікування.',
     aboutText3: 'Кожен член нашої команди - експерт у своїй справі, об\'єднаний спільною місією: робити ваш досвід незабутнім.',
+    years: 'Years of experience',
+    projects: 'Projects',
+    chill: 'Pleasure',
     ourMission: 'Наша місія',
     missionText: 'Створювати виняткові враження для кожного клієнта через інновації, якість та відданість своїй справі.',
     
@@ -101,6 +104,9 @@ export const translations = {
     aboutText1: 'We started with a big dream - to create something truly special for our clients. Over the years, we grew from a small startup to a recognized industry leader.',
     aboutText2: 'Today we are proud to offer you the highest quality of service and individual approach. Our team of professionals works daily to not just meet, but exceed your expectations.',
     aboutText3: 'Every team member is an expert in their field, united by a common mission: making your experience unforgettable.',
+    years: 'Years of experience',
+    projects: 'Projects',
+    chill: 'Pleasure',
     ourMission: 'Our Mission',
     missionText: 'Creating exceptional experiences for every client through innovation, quality and dedication.',
     
@@ -194,6 +200,9 @@ export const translations = {
     aboutText1: 'Comenzamos con un gran sueño: crear algo verdaderamente especial para nuestros clientes. A lo largo de los años, crecimos de una pequeña startup a un líder reconocido en la industria.',
     aboutText2: 'Hoy estamos orgullosos de ofrecerle la más alta calidad de servicio y enfoque individual. Nuestro equipo de profesionales trabaja diariamente no solo para cumplir, sino para superar sus expectativas.',
     aboutText3: 'Cada miembro del equipo es un experto en su campo, unidos por una misión común: hacer que su experiencia sea inolvidable.',
+    years: 'Años de experiencia',
+    projects: 'Proyectos',
+    chill: 'Placer',
     ourMission: 'Nuestra Misión',
     missionText: 'Crear experiencias excepcionales para cada cliente a través de la innovación, calidad y dedicación.',
     
