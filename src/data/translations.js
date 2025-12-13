@@ -26,6 +26,12 @@ export const translations = {
     itemDesc: 'Детальний опис страви з унікальним поєднанням смаків та ароматів',
     orderNow: 'Замовити',
     
+    menuO: 'Наші курси',
+    menuDescO: 'Оберіть напрямок, який відповідає вашим цілям. Навчання побудоване на практиці та актуальних знаннях',
+    itemO: 'Курс',
+    itemDescO: 'Детальний опис курсу з програмою, навичками та результатами, які ви отримаєте',
+    orderNowO: 'Записатися',
+
     products: 'Наші товари',
     productsDesc: 'Якість, яку ви справді заслуговуєте. Кожен продукт ретельно відібраний',
     product: 'Товар',
@@ -122,6 +128,12 @@ export const translations = {
     itemDesc: 'Detailed dish description with unique flavor and aroma combinations',
     orderNow: 'Order Now',
     
+    menuO: 'Our Courses',
+    menuDescO: 'Choose a direction that matches your goals. Learning is built on practice and up-to-date knowledge',
+    itemO: 'Course',
+    itemDescO: 'A detailed course description including the program, skills, and outcomes you will gain',
+    orderNowO: 'Enroll Now',
+
     products: 'Our Products',
     productsDesc: 'Quality you truly deserve. Each product is carefully selected',
     product: 'Product',
@@ -218,6 +230,13 @@ export const translations = {
     itemDesc: 'Descripción detallada del plato con combinaciones únicas de sabores y aromas',
     orderNow: 'Ordenar Ahora',
     
+    menuO: 'Nuestros cursos',
+    menuDescO: 'Elige un camino que se adapte a tus objetivos. El aprendizaje se basa en la práctica y conocimientos actualizados',
+    itemO: 'Curso',
+    itemDescO: 'Descripción detallada del curso con el programa, habilidades y resultados que obtendrás',
+    orderNowO: 'Inscribirse',
+
+
     products: 'Nuestros Productos',
     productsDesc: 'Calidad que realmente mereces. Cada producto está cuidadosamente seleccionado',
     product: 'Producto',

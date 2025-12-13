@@ -148,8 +148,8 @@ export const generatePage = (type, tmpl, t, language = 'uk') => {
     menu: `<section class="py-20 md:py-32 bg-white" id="menu">
   <div class="container mx-auto px-6">
     <div class="text-center mb-16 scroll-reveal">
-      <h2 class="text-4xl md:text-6xl font-bold mb-4 text-${primary}">${t.menu}</h2>
-      <p class="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto">${t.menuDesc}</p>
+      <h2 class="text-4xl md:text-6xl font-bold mb-4 text-${primary}">${t.menuO}</h2>
+      <p class="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto">${t.menuDescO}</p>
       <div class="w-24 h-1 bg-linear-to-r from-${primary} to-${secondary} mx-auto mt-4"></div>
     </div>
     
@@ -167,9 +167,9 @@ export const generatePage = (type, tmpl, t, language = 'uk') => {
             <div class="flex-1 flex flex-col justify-between">
               <div>
                 <h3 class="text-xl md:text-2xl font-bold mb-3 text-${primary} group-hover:text-${secondary} transition-colors">
-                  ${t.item} ${i}
+                  ${t.itemO} ${i}
                 </h3>
-                <p class="text-gray-600 text-sm md:text-base leading-relaxed">${t.itemDesc}</p>
+                <p class="text-gray-600 text-sm md:text-base leading-relaxed">${t.itemDescO}</p>
               </div>
               
               <div class="flex items-center justify-between mt-4">
@@ -177,7 +177,7 @@ export const generatePage = (type, tmpl, t, language = 'uk') => {
                   ₴${150 + i * 50}
                 </span>
                 <button class="px-5 py-2 bg-linear-to-r from-${primary} to-${secondary} text-white rounded-lg font-semibold hover:scale-105 transition-transform text-sm md:text-base">
-                  ${t.orderNow}
+                  ${t.orderNowO}
                 </button>
               </div>
             </div>
